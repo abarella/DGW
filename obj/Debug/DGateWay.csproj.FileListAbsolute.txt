@@ -1,0 +1,11 @@
+c:\projetos\DGateWay\DGateWay\DGateWay\bin\Debug\DGateWay.exe.config
+c:\projetos\DGateWay\DGateWay\DGateWay\bin\Debug\DGateWay.exe
+c:\projetos\DGateWay\DGateWay\DGateWay\bin\Debug\DGateWay.pdb
+c:\projetos\DGateWay\DGateWay\DGateWay\obj\Debug\DGateWay.csprojResolveAssemblyReference.cache
+c:\projetos\DGateWay\DGateWay\DGateWay\obj\Debug\DGateWay.DGateWay.resources
+c:\projetos\DGateWay\DGateWay\DGateWay\obj\Debug\DGateWay.Properties.Resources.resources
+c:\projetos\DGateWay\DGateWay\DGateWay\obj\Debug\DGateWay.csproj.GenerateResource.Cache
+c:\projetos\DGateWay\DGateWay\DGateWay\obj\Debug\DGateWay.exe
+c:\projetos\DGateWay\DGateWay\DGateWay\obj\Debug\DGateWay.pdb
+c:\projetos\DGateWay\DGateWay\DGateWay\obj\Debug\DGateWay.frmProcess.resources
+c:\PROJETOS\DGateWay\DGateWay\DGateWay\obj\Debug\DGateWay.frmSchedule.resources
